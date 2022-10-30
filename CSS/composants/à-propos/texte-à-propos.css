@@ -1,0 +1,16 @@
+.texte {
+    background-color: rgb(18, 112, 220);
+    height: 320px;
+    width: 600px;
+    margin-top: 12%;
+    margin-left: 15%;
+    border-radius: 50px;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    font-size: xx-large;
+}
+
+.texte:hover {
+    background-color: white;
+  }

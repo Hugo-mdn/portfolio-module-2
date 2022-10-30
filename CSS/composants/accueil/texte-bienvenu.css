@@ -1,0 +1,24 @@
+.bienvenu {
+    font-size: xx-large;
+    background-color: grey;
+    height: 500px;
+    width: 400px;
+    align-items: center;
+    margin: auto;
+    border-radius: 50px;
+}
+
+.titre-bienvenu {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 60px;
+
+}
+
+.texte-bienvenu {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 20px;
+}

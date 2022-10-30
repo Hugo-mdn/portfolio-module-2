@@ -1,0 +1,29 @@
+@import url(composants/accueil/banner-accueil.css);
+@import url(composants/accueil/logo.css);
+@import url(composants/accueil/menu.css);
+@import url(composants/accueil/navbar.css);
+@import url(composants/accueil/texte-bienvenu.css);
+@import url(composants/accueil/boutons.css);
+@import url(composants/à-propos/photo-profil.css);
+@import url(composants/à-propos/banner-à-propos.css);
+@import url(composants/à-propos/texte-à-propos.css);
+@import url(composants/à-propos/titre-à-propos.css);
+@import url(composants/à-propos/deux.css);
+@import url(composants/portfolio/banner-portfolio.css);
+@import url(composants/portfolio/titre-portfolio.css);
+@import url(composants/contact/banner-contact.css);
+@import url(composants/contact/titre-contact.css);
+@import url(composants/contact/box-contact.css);
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}

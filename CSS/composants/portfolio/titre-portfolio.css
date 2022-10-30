@@ -1,0 +1,8 @@
+.titre2 {
+    display: flex;
+    justify-content: center;
+    height: 3%;
+    font-size: 60px;
+    padding-top: 1%;
+
+}
