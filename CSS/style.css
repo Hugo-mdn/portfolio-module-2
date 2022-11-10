@@ -11,6 +11,22 @@
 @import url(composants/à-propos/deux.css);
 @import url(composants/portfolio/banner-portfolio.css);
 @import url(composants/portfolio/titre-portfolio.css);
+@import url(composants/portfolio/3D/caroussel.css);
+@import url(composants/portfolio/3D/texte-3d.css);
+@import url(composants/portfolio/3D/div_3d.css);
+@import url(composants/portfolio/créa/div-créa.css);
+@import url(composants/portfolio/créa/img-créa.css);
+@import url(composants/portfolio/créa/texte-créa.css);
+@import url(composants/portfolio/JV/div-jv.css);
+@import url(composants/portfolio/JV/img-jv.css);
+@import url(composants/portfolio/JV/texte-jv.css);
+@import url(composants/portfolio/CDEB/div-cdeb.css);
+@import url(composants/portfolio/CDEB/texte-cdeb.css);
+@import url(composants/portfolio/CDEB/img-cdeb.css);
+@import url(composants/portfolio/dev-web/div-dev-web.css);
+@import url(composants/portfolio/dev-web/texte-dev-web.css);
+@import url(composants/portfolio/dev-web/img-dev-web.css);
+
 @import url(composants/contact/banner-contact.css);
 @import url(composants/contact/titre-contact.css);
 @import url(composants/contact/box-contact.css);

@@ -1,18 +1,7 @@
 .logo {
     display: flex;
     height: 100px;   
-}
-
-@keyframes rotate-logo {
-    0%{
-        transform: rotate(90deg);
-    }
-
-    50%{
-        transform: rotate(180deg);
-    }
-
-    100% {
-        transform: rotate(360deg);
-    }
+    transition-duration: 2s;
+    transition-property: transform;
+    transform: rotate(360deg);
 }

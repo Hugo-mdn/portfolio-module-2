@@ -1,0 +1,11 @@
+#carouselExampleControls {
+    display: flex;
+    width: 500px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+
+.carousel-iner {
+    align-content: center;
+}
